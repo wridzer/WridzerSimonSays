@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/wridz/CLionProjects/WridzerSimonSays/ScreenClear.h
+
+C:/Users/wridz/CLionProjects/WridzerSimonSays/main.cpp
+iostream
+-
+vector
+-
+ScreenClear.h
+C:/Users/wridz/CLionProjects/WridzerSimonSays/ScreenClear.h
+
